@@ -10,12 +10,18 @@ Este projeto foi desenvolvido durante a `Fase III`, do curso de `Arquitetura de 
 - Lucas Rego Lima (RM356101)
 - Lilian Rosario de Jesus (RM355928)
 
-## Demosntração em Vídeo
+## Demonstração em Vídeo
 
-- [Assistir a Fase 1 no YouTube](https://www.youtube.com/watch?v=I0tNdblTFDc)
+### Fase 1
+- [Assistir no YouTube](https://www.youtube.com/watch?v=I0tNdblTFDc)
+
+### Fase 2
 - [Assistir a Parte 1 da Fase 2 no YouTube](https://www.youtube.com/watch?v=r81e0Y-HJx4)
 - [Assistir a Parte 2 da Fase 2 no YouTube](https://www.youtube.com/watch?v=cL7ryiqxlvk)
-- [Assistir a Fase 3 no YouTube](TODO: Gravar o vídeo)
+
+### Fase 3
+- [Assistir a Parte 1 no YouTube](https://youtu.be/rsVHmP_bMac)
+- [Assistir a Parte 2 no YouTube](https://youtu.be/ouYiMiizpLE)
 
 ## Event Storming :[Ver no Miro 👁️](https://miro.com/app/board/uXjVKYNMy0E=/?moveToWidget=3458764595664040196&cot=10):
 
