@@ -87,7 +87,7 @@ A solução está disposta em 10 repositórios conforme as descrições abaixo:
 
 ## OpenAPI - Swagger
 
-- Cada serviço possui seu próprio swagger disponível na rota `/docs` com o serviço em execução.
+- Cada serviço possui seu próprio swagger disponível na rota `/docs` com o serviço em execução. E também estão disponíveis em `./docs/swagger` podendo ser visualizado em `editor.swagger.io`.
 
 ## Requisitos Funcionais:
 
