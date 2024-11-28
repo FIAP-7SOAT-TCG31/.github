@@ -38,7 +38,7 @@ Este projeto foi desenvolvido durante a `Fase IV`, do curso de `Arquitetura de S
 
 ![Domain Aggregates](../docs/resources/EventStormingAggregates.png)
 
-## Arquitetura Cloud (AWS) :[Ver no Miro 👁️](https://miro.com/app/board/o9J_lHsdpmE=/?moveToWidget=3458764608376800696&cot=14)
+## Arquitetura Cloud (AWS) :[Ver no Miro 👁️](https://miro.com/app/board/o9J_lHsdpmE=/?moveToWidget=3458764608629009136&cot=10)
 
 ![Arquitetura Cloud (AWS)](../docs/resources/ArchitectureAwsCloud.png)
 
@@ -52,7 +52,7 @@ Foi escolhido o Postgres na AWS com RDS por ser um banco bastante flexível e co
 
 Foi aplicado MongoDB implantado em infraestrutura da AWS gerenciada pelo Atlas. O banco forerece grande flexibilidade no trabalho e evolução dos dados.
 
-## Modelagem da Base: [Ver no Miro 👁️](https://miro.com/app/board/o9J_lHsdpmE=/?moveToWidget=3458764608480748590&cot=10)
+## Modelagem da Base: [Ver no Miro 👁️](https://miro.com/app/board/o9J_lHsdpmE=/?moveToWidget=3458764608628924696&cot=10)
 
 ![Modelagem da Base](../docs/resources/DatabaseStructure.png)
 
@@ -79,6 +79,9 @@ A solução está disposta em 10 repositórios conforme as descrições abaixo:
 - Repositório para o serviço de Pagamentos (PaymentsService) escrito com NestJS e Node e implantado na infraestrutura do EKS: [Ver Repositório](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-payments)
 
 - Repositório para o serviço de Preparo (PreparationService) escrito com NestJS e Node e implantado na infraestrutura do EKS: [Ver Repositório](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-preparation)
+
+## Postman
+[Acessar a collection do postman](https://www.postman.com/gm50x/workspace/7soat31/folder/10261834-ead661be-6140-4298-ac6a-380fa0c3c5b3?action=share&source=copy-link&creator=10261834&ctx=documentation)
 
 ## CICD
 
