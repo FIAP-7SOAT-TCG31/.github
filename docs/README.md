@@ -1,6 +1,6 @@
-# Tech Challenge FIAP Project - Fase 3
+# Tech Challenge FIAP Project - Fase 4
 
-Este projeto foi desenvolvido durante a `Fase III`, do curso de `Arquitetura de Software` da FIAP, como requisito para avaliação.
+Este projeto foi desenvolvido durante a `Fase IV`, do curso de `Arquitetura de Software` da FIAP, como requisito para avaliação.
 
 ## Integrantes do Grupo 7SOAT-31:
 
@@ -13,12 +13,15 @@ Este projeto foi desenvolvido durante a `Fase III`, do curso de `Arquitetura de 
 ## Links
 
 ### Vídeos
-- [Assistir a Parte 1 no YouTube](https://youtu.be/rsVHmP_bMac)
-- [Assistir a Parte 2 no YouTube](https://youtu.be/ouYiMiizpLE)
+- [Assistir no YouTube](https://youtu.be/8YUMKMkGJ0c)
 
 ### Repositórios
 - [Gateway](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-gateway)
-- [Aplicação Principal](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-app)
 - [Kubernetes](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-kubernetes)
-- [Database](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-database)
+- [Postgres](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-database)
+- [MongoDB](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-mongodb)
+- [RabbitMQ](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-rabbitmq)
 - [Lambda](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-lambda)
+- [OrderService](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-orders)
+- [PaymentsService](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-payments)
+- [PreparationService](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-preparation)

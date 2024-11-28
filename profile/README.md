@@ -28,7 +28,7 @@ Este projeto foi desenvolvido durante a `Fase IV`, do curso de `Arquitetura de S
 
 ### Fase 4
 
-- [Assistir no YouTube](TODO)
+- [Assistir no YouTube](https://youtu.be/8YUMKMkGJ0c)
 
 ## Event Storming :[Ver no Miro 👁️](https://miro.com/app/board/o9J_lHsdpmE=/?moveToWidget=3458764608376800764&cot=10):
 
