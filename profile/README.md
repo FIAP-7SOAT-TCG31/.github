@@ -81,7 +81,7 @@ A solução está disposta em 10 repositórios conforme as descrições abaixo:
 - Repositório para o serviço de Preparo (PreparationService) escrito com NestJS e Node e implantado na infraestrutura do EKS: [Ver Repositório](https://github.com/FIAP-7SOAT-TCG31/fiap-7soat-tcg31-preparation)
 
 ## Postman
-[Acessar a collection do postman](https://www.postman.com/gm50x/workspace/7soat31/folder/10261834-ead661be-6140-4298-ac6a-380fa0c3c5b3?action=share&source=copy-link&creator=10261834&ctx=documentation)
+Uma collection automatizada foi criada para auxiliar no desenvolvimento do sistema: [Acessar a collection do postman](https://www.postman.com/gm50x/workspace/7soat31/folder/10261834-ead661be-6140-4298-ac6a-380fa0c3c5b3?action=share&source=copy-link&creator=10261834&ctx=documentation)
 
 ## CICD
 
@@ -112,4 +112,62 @@ A solução está disposta em 10 repositórios conforme as descrições abaixo:
 - Infraestrutura automatizada (terraform)
 - Pipelines CICD automatizados (github actions)
 - Branchs protegidas (PR, 2 approvals e actions passando)
+- Coverage de 80%
+- Ao menos 1 fluxo BDD em cada serviço
 - Disposição em Microserviços (3 microserviços: order, preparation, payments)
+
+## Evidências:
+
+### OrdersService
+
+#### Pipeline:
+
+![Pipeline](../docs/resources/phase4-evidence/orders-pipeline.png)
+
+#### Testes de Unidade
+
+![Testes de Unidade](../docs/resources/phase4-evidence/orders-unit-tests.png)
+
+#### Testes de Integração
+
+![Testes de Integração](../docs/resources/phase4-evidence/orders-integration-tests.png)
+
+#### Testes de Aceitação (BDD)
+
+![Testes de Aceitação(BDD)](../docs/resources/phase4-evidence/orders-bdd-tests.png)
+
+### PreparationService
+
+#### Pipeline:
+
+![Pipeline](../docs/resources/phase4-evidence/preparation-pipeline.png)
+
+#### Testes de Unidade
+
+![Testes de Unidade](../docs/resources/phase4-evidence/preparation-unit-tests.png)
+
+#### Testes de Integração
+
+![Testes de Integração](../docs/resources/phase4-evidence/preparation-integration-tests.png)
+
+#### Testes de Aceitação (BDD)
+
+![Testes de Aceitação(BDD)](../docs/resources/phase4-evidence/preparation-bdd-tests.png)
+
+### PaymentsService
+
+#### Pipeline:
+
+![Pipeline](../docs/resources/phase4-evidence/payments-pipeline.png)
+
+#### Testes de Unidade
+
+![Testes de Unidade](../docs/resources/phase4-evidence/payments-unit-tests.png)
+
+#### Testes de Integração
+
+![Testes de Integração](../docs/resources/phase4-evidence/payments-integration-tests.png)
+
+#### Testes de Aceitação (BDD)
+
+![Testes de Aceitação(BDD)](../docs/resources/phase4-evidence/payments-bdd-tests.png)
